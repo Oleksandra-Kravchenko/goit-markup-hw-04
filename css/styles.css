@@ -158,8 +158,6 @@ img {
 .contacts-link:focus,
 .nav-link.current {
   color: #404bbf;
-  transition: transform 250ms;
-  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 /* ==HERO==*/
@@ -360,8 +358,6 @@ img {
 .team-link:hover,
 .team-link:focus {
   background-color: #404bbf;
-  transition: transform 250ms;
-  transition-timing-function: (0.4, 0, 0.2, 1);
 }
 
 .team-icons {
@@ -398,8 +394,6 @@ img {
 .portfolio-item:hover {
   box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08),
     0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
-  transition: transform 250ms;
-  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .portfolio-item:hover .portfolio-thumb-text {
@@ -520,8 +514,6 @@ img {
 .footer-link:hover,
 .footer-link:focus {
   background-color: #31d0aa;
-  transition: transform 250ms;
-  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .footer-icons {
